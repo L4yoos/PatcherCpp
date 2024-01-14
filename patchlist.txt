@@ -1,0 +1,4 @@
+//Example Patchlist for your Patcher.
+// | Nazwa Pliku | CRC-32 | Rozmiar Pliku |
+plik1.exe 97823x19 258048
+plik2.cfg 213c7d65 15
