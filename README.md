@@ -1,5 +1,5 @@
 # Patcher C++ | L4yoos
-Projekt Updater C++ to aplikacja umożliwiająca pobieranie plików z serwera, sprawdzanie ich integralności za pomocą sumy kontrolnej CRC-32 oraz zarządzanie aktualizacjami. Poniżej znajdziesz informacje dotyczące funkcji głównych, implementacji.
+Projekt Patcher C++ to aplikacja umożliwiająca pobieranie plików z serwera, sprawdzanie ich integralności za pomocą sumy kontrolnej CRC-32 oraz zarządzanie aktualizacjami. Poniżej znajdziesz informacje dotyczące funkcji głównych, implementacji.
 
 ## Główne Funkcje
 #### Pobieranie i Aktualizacja Plików
